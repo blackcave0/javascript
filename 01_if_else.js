@@ -13,3 +13,7 @@ else if(status == 2){
     msg = "Offline";
     alert(msg);
 }
+
+/* 
+    this is comment for git login pop confirmetion 
+*/
